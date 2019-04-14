@@ -1,0 +1,11 @@
+C:\Users\Admin\source\repos\practica1\practica1\bin\Debug\practica1.exe.config
+C:\Users\Admin\source\repos\practica1\practica1\bin\Debug\practica1.exe
+C:\Users\Admin\source\repos\practica1\practica1\bin\Debug\practica1.pdb
+C:\Users\Admin\source\repos\practica1\practica1\bin\Debug\practica1.xml
+C:\Users\Admin\source\repos\practica1\practica1\obj\Debug\practica1.vbprojAssemblyReference.cache
+C:\Users\Admin\source\repos\practica1\practica1\obj\Debug\practica1.Resources.resources
+C:\Users\Admin\source\repos\practica1\practica1\obj\Debug\practica1.vbproj.GenerateResource.cache
+C:\Users\Admin\source\repos\practica1\practica1\obj\Debug\practica1.vbproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\practica1\practica1\obj\Debug\practica1.exe
+C:\Users\Admin\source\repos\practica1\practica1\obj\Debug\practica1.xml
+C:\Users\Admin\source\repos\practica1\practica1\obj\Debug\practica1.pdb

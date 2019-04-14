@@ -1,0 +1,11 @@
+E:\Documentos\VISUAL STUDIO\Guia 1\Guia 1\obj\Debug\Guia_1.Resources.resources
+E:\Documentos\VISUAL STUDIO\Guia 1\Guia 1\obj\Debug\Guia 1.vbproj.GenerateResource.cache
+E:\Documentos\VISUAL STUDIO\Guia 1\Guia 1\obj\Debug\Guia 1.vbproj.CoreCompileInputs.cache
+E:\Documentos\VISUAL STUDIO\Guia 1\Guia 1\bin\Debug\Guia 1.exe.config
+E:\Documentos\VISUAL STUDIO\Guia 1\Guia 1\bin\Debug\Guia 1.exe
+E:\Documentos\VISUAL STUDIO\Guia 1\Guia 1\bin\Debug\Guia 1.pdb
+E:\Documentos\VISUAL STUDIO\Guia 1\Guia 1\bin\Debug\Guia 1.xml
+E:\Documentos\VISUAL STUDIO\Guia 1\Guia 1\obj\Debug\Guia 1.exe
+E:\Documentos\VISUAL STUDIO\Guia 1\Guia 1\obj\Debug\Guia 1.xml
+E:\Documentos\VISUAL STUDIO\Guia 1\Guia 1\obj\Debug\Guia 1.pdb
+E:\Documentos\VISUAL STUDIO\Guia 1\Guia 1\obj\Debug\Guia 1.vbprojAssemblyReference.cache
