@@ -1,0 +1,10 @@
+C:\Users\CATOLICA\Desktop\POO1A MARR\POO1A MARR\bin\Debug\POO1A MARR.exe.config
+C:\Users\CATOLICA\Desktop\POO1A MARR\POO1A MARR\bin\Debug\POO1A MARR.exe
+C:\Users\CATOLICA\Desktop\POO1A MARR\POO1A MARR\bin\Debug\POO1A MARR.pdb
+C:\Users\CATOLICA\Desktop\POO1A MARR\POO1A MARR\bin\Debug\POO1A MARR.xml
+C:\Users\CATOLICA\Desktop\POO1A MARR\POO1A MARR\obj\Debug\POO1A MARR.vbprojResolveAssemblyReference.cache
+C:\Users\CATOLICA\Desktop\POO1A MARR\POO1A MARR\obj\Debug\POO1A_MARR.Resources.resources
+C:\Users\CATOLICA\Desktop\POO1A MARR\POO1A MARR\obj\Debug\POO1A MARR.vbproj.GenerateResource.Cache
+C:\Users\CATOLICA\Desktop\POO1A MARR\POO1A MARR\obj\Debug\POO1A MARR.exe
+C:\Users\CATOLICA\Desktop\POO1A MARR\POO1A MARR\obj\Debug\POO1A MARR.xml
+C:\Users\CATOLICA\Desktop\POO1A MARR\POO1A MARR\obj\Debug\POO1A MARR.pdb
