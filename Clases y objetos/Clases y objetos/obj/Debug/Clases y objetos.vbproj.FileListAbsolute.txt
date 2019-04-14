@@ -1,0 +1,11 @@
+E:\Documentos\VISUAL STUDIO\Clases y objetos\Clases y objetos\bin\Debug\Clases y objetos.exe.config
+E:\Documentos\VISUAL STUDIO\Clases y objetos\Clases y objetos\bin\Debug\Clases y objetos.exe
+E:\Documentos\VISUAL STUDIO\Clases y objetos\Clases y objetos\bin\Debug\Clases y objetos.pdb
+E:\Documentos\VISUAL STUDIO\Clases y objetos\Clases y objetos\bin\Debug\Clases y objetos.xml
+E:\Documentos\VISUAL STUDIO\Clases y objetos\Clases y objetos\obj\Debug\Clases y objetos.vbprojAssemblyReference.cache
+E:\Documentos\VISUAL STUDIO\Clases y objetos\Clases y objetos\obj\Debug\Clases_y_objetos.Resources.resources
+E:\Documentos\VISUAL STUDIO\Clases y objetos\Clases y objetos\obj\Debug\Clases y objetos.vbproj.GenerateResource.cache
+E:\Documentos\VISUAL STUDIO\Clases y objetos\Clases y objetos\obj\Debug\Clases y objetos.vbproj.CoreCompileInputs.cache
+E:\Documentos\VISUAL STUDIO\Clases y objetos\Clases y objetos\obj\Debug\Clases y objetos.exe
+E:\Documentos\VISUAL STUDIO\Clases y objetos\Clases y objetos\obj\Debug\Clases y objetos.xml
+E:\Documentos\VISUAL STUDIO\Clases y objetos\Clases y objetos\obj\Debug\Clases y objetos.pdb
